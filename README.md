@@ -4,7 +4,7 @@
 Blog: http://blog-appid.appspot.com/
 
 ###Steps to run
-1. Clone the project (git clone)
+1. Clone the project (git clone )
 2. Install google app engine
 3. Import the application into the laucher.
 4. Click on run button
