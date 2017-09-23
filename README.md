@@ -1,7 +1,7 @@
 # Python-project
 # Udacity Multi Blog Project
 
-Blog: [Click here](http://blog-appid.appspot.com/)
+Blog: [Click Here](http://blog-appid.appspot.com/)
 
 ### Steps to run
 1. Clone the project  git clone [Click Here](https://github.com/Benn9211/Python-Project-)
@@ -12,7 +12,7 @@ Blog: [Click here](http://blog-appid.appspot.com/)
 6. App will start running on configured port.
 
 
- - First intall "Google App Engine" useing this link (goo.gl/BNtT13) for furture information read the provided document on this link.
+ - First intall "Google App Engine" useing this link [Click Here](https://cloud.google.com/appengine/downloads?utm_source=google&utm_medium=cpc&utm_campaign=2015-q1-cloud-northam-us-gae-bkws-freetrial-en&gclid=Cj0KEQjwuOHHBRDmvsHs8PukyIQBEiQAlEMW0ON07bTdkSwfapg3FWoPJcHTWVGFlgN60eH47zsK2iYaAqmL8P8HAQ) for furture information read the provided document on this link.
 - Second step go to the app engine click file open add exiting application then look for you floder that contains the app file and add the path 
   * When you finish adding path to your app engine then can click on Play Button and and wait for it to load on to the app engine
   * After that Click on browser logo on your app engine
@@ -20,5 +20,5 @@ Blog: [Click here](http://blog-appid.appspot.com/)
 
 ## Documention
 
-1. If you don't know about the deploying app here is the link for (*App deployment) :[Click here](https://www.youtube.com/watch?v=mpqJylF-5Bc)
-2. Reference to app.yaml on google doucument:[click here](https://cloud.google.com/appengine/docs/standard/python/config/appref)
+1. If you don't know about the deploying app here is the link for (*App deployment) :[Click Here](https://www.youtube.com/watch?v=mpqJylF-5Bc)
+2. Reference to app.yaml on google doucument:[Click Here](https://cloud.google.com/appengine/docs/standard/python/config/appref)
